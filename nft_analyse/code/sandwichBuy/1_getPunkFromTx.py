@@ -6,7 +6,7 @@ import json
 import pickle
 
 def getPunkFromErc20():
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/erc20/";
+    fileDir = "/mnt/sda1/xblock/erc20/";
 
     files = [
         "13000000to13249999_ERC20Transaction",

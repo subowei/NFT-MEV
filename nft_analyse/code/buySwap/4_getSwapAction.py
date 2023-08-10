@@ -26,7 +26,7 @@ def getPairAddress():
 # blockNumber,timestamp,transactionHash,tokenAddress,from,to,fromIsContract,toIsContract,value
 def get_mortgage_reward_fromERC20(nftMap,pairAddressMap):
     txMap={}
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/erc20/";
+    fileDir = "/mnt/sda1/xblock/erc20/";
 
     files = [
         "13000000to13249999_ERC20Transaction",

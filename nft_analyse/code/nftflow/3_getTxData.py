@@ -19,7 +19,7 @@ def getTx():
 
 def getFromNormal(txMap):
     print("getNormalTransactionFromXblock")
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/normalTransaction/";
+    fileDir = "/mnt/sda1/xblock/normalTransaction/";
 
     files = [
 		"13000000to13249999_BlockTransaction",

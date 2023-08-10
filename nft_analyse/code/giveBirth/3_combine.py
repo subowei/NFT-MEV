@@ -13,7 +13,7 @@ def combine():
                      "callReward","rewardCount","transactionFee","coinbase_transfer","total_miner_reward","flashbots"])    
 
     flashbotsTxMap={}
-    with open("/mnt/sda1/bowei/sbw/xblock/flashbots/flashbots_13_16.map", "rb") as tf:
+    with open("/mnt/sda1/xblock/flashbots/flashbots_13_16.map", "rb") as tf:
         flashbotsTxMap=pickle.load(tf)
         
     with open("/mnt/sde1/geth/nft_analyse_v1/data/giveBirth/map/giveBirth_internal.map", "rb") as tf:

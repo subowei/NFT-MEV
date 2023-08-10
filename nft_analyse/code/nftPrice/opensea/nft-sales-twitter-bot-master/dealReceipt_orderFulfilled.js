@@ -6,10 +6,10 @@ var AdmZip = require('adm-zip');
 const fs = require('fs');
 
 
-const dirPath='/mnt/sda1/bowei/sbw/xblock/receipt/'
+const dirPath='/mnt/sda1/xblock/receipt/'
 const outputCsv = "/mnt/sde1/geth/nft_analyse_v1/data/nftPrice/csv/nftTradefromsSeaport_13_15.csv"
 
-// const dirPath='/mnt/sda1/bowei/sbw/xblock/receipt_15_16/'
+// const dirPath='/mnt/sda1/xblock/receipt_15_16/'
 // const outputCsv = "/mnt/sde1/geth/nft_analyse_v1/data/nftPrice/csv/nftTradefromsSeaport_15_16.csv"
 
 var fsWrite = fs.openSync(outputCsv, 'w')

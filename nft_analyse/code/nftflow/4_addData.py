@@ -17,7 +17,7 @@ def addStatus():
         txMap=pickle.load(tf)
     
     
-    with open("/mnt/sda1/bowei/sbw/xblock/flashbots/flashbots_13_16.map", "rb") as tf:
+    with open("/mnt/sda1/xblock/flashbots/flashbots_13_16.map", "rb") as tf:
         flashbotsTxMap=pickle.load(tf)
     
     fNew = open(outputCsv,'w')

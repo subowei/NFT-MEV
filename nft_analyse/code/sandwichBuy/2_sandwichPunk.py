@@ -11,7 +11,7 @@ import pickle
 # 'callingFunction', 'isError', 'eip2718type', 'baseFeePerGas', 'maxFeePerGas', 'maxPriorityFeePerGas']
 def getNormalTransactionFromXblock(resList,flashbotsTxMap,valid_contract_address,path):
     print("getNormalTransactionFromXblock")
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/normalTransaction/";
+    fileDir = "/mnt/sda1/xblock/normalTransaction/";
 
     files = [
 		"13000000to13249999_BlockTransaction",
@@ -110,7 +110,7 @@ def cryptoPunks():
     valid_contract_address="0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"
     flashbotsTxMap={}
     resList=[]
-    with open("/mnt/sda1/bowei/sbw/xblock/flashbots/flashbots_13_16.map", "rb") as tf:
+    with open("/mnt/sda1/xblock/flashbots/flashbots_13_16.map", "rb") as tf:
         flashbotsTxMap=pickle.load(tf)
     getNormalTransactionFromXblock(resList,flashbotsTxMap,valid_contract_address,path)
 

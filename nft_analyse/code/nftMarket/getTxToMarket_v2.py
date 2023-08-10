@@ -9,7 +9,7 @@ import os
 
 def getFromInternal(txMap,outputPath_dict,addressMap):
     
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/internalTransaction/";
+    fileDir = "/mnt/sda1/xblock/internalTransaction/";
 
     files = [
 		"13000000to13249999_InternalTransaction",

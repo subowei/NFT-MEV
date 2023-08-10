@@ -85,7 +85,7 @@ def main():
     dealZipFile(receipt_path,outputCsv)
 
 CryptoPunksMarket="0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"
-receipt_path="/mnt/sda1/bowei/sbw/xblock/receipt/"
+receipt_path="/mnt/sda1/xblock/receipt/"
 event_select="0x58e5d5a525e3b40bc15abaa38b5882678db1ee68befd2f60bafe3a7fd06db9e3"
 
 # def main():
@@ -93,7 +93,7 @@ event_select="0x58e5d5a525e3b40bc15abaa38b5882678db1ee68befd2f60bafe3a7fd06db9e3
 #     dealZipFile(receipt_path,outputCsv)
 
 
-# receipt_path="/mnt/sda1/bowei/sbw/xblock/receipt_15_16/"
+# receipt_path="/mnt/sda1/xblock/receipt_15_16/"
 # event_select="0x58e5d5a525e3b40bc15abaa38b5882678db1ee68befd2f60bafe3a7fd06db9e3"
 
 

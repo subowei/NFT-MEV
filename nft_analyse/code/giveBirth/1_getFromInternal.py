@@ -10,7 +10,7 @@ def getInterTransactionFromXblock(valid_contract_address):
     print("getInterTransactionFromXblock")
     
     txMap={}
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/internalTransaction/";
+    fileDir = "/mnt/sda1/xblock/internalTransaction/";
     files = [
 		"13000000to13249999_InternalTransaction",
 		"13250000to13499999_InternalTransaction",

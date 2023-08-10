@@ -10,7 +10,7 @@ import os
 def getFromBlock():
     blockMap={}
     
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/block/";
+    fileDir = "/mnt/sda1/xblock/block/";
 
     files = [
         "13000000to13249999_Block",

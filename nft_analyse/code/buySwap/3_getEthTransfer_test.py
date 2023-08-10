@@ -10,7 +10,7 @@ import os
 # blockNumber,timestamp,transactionHash,typeTraceAddress,from,to,fromIsContract,toIsContract,value,callingFunction,isError
 def getFromInternal(nftMap,etherTransferMap,txMap):
     
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/internalTransaction/";
+    fileDir = "/mnt/sda1/xblock/internalTransaction/";
 
     files = [
 		# "13000000to13249999_InternalTransaction",
@@ -149,7 +149,7 @@ def getFromInternal(nftMap,etherTransferMap,txMap):
             
 # blockNumber,timestamp,transactionHash,tokenAddress,from,to,fromIsContract,toIsContract,value
 def getFromERC20(nftMap,etherTransferMap,txMap):
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/erc20/";
+    fileDir = "/mnt/sda1/xblock/erc20/";
 
     files = [
         # "13000000to13249999_ERC20Transaction",

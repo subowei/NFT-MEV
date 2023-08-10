@@ -55,7 +55,7 @@ def main():
     with open("/mnt/sde1/geth/nft_analyse_v1/data/liquidate/map/txData.map", "rb") as tf:
         txMap=pickle.load(tf)
         
-    with open("/mnt/sda1/bowei/sbw/xblock/flashbots/flashbots_13_16.map", "rb") as tf:
+    with open("/mnt/sda1/xblock/flashbots/flashbots_13_16.map", "rb") as tf:
         flashbotsTxMap=pickle.load(tf)
         
     getFirstBid(txMap,flashbotsTxMap)

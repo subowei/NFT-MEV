@@ -58,7 +58,7 @@ import (
 
 //···························································································································
 //位图数组，存在表示该区块中的交易不按照汽油费从高到低排序
-// var outOrderedBklDictPath = "/mnt/4t2/bowei/sbw/gethv8/data/input/outOrderedBklDict"
+// var outOrderedBklDictPath = "/mnt/4t2/gethv8/data/input/outOrderedBklDict"
 
 var outPutPath = "/mnt/sde1/geth/output/"
 

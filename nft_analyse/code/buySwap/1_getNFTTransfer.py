@@ -11,7 +11,7 @@ import os
 def getFromERC721(outputPath_dict):
     nftMap={}
     nftMap_new={}
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/erc721/";
+    fileDir = "/mnt/sda1/xblock/erc721/";
 
     files = [
         "13000000to13249999_ERC721Transaction",

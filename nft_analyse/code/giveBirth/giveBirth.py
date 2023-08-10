@@ -8,7 +8,7 @@ import pickle
 # blockNumber,timestamp,transactionHash,typeTraceAddress,from,to,fromIsContract,toIsContract,value,callingFunction,isError
 def getInterTransactionFromXblock(resTxMap,flashbotsTxMap,valid_contract_address,path):
     print("getInterTransactionFromXblock")
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/internalTransaction/";
+    fileDir = "/mnt/sda1/xblock/internalTransaction/";
 
     files = [
 		# "13000000to13249999_InternalTransaction",
@@ -73,7 +73,7 @@ def getInterTransactionFromXblock(resTxMap,flashbotsTxMap,valid_contract_address
 # 'callingFunction', 'isError', 'eip2718type', 'baseFeePerGas', 'maxFeePerGas', 'maxPriorityFeePerGas']
 def getNormalTransactionFromXblock(resTxMap,flashbotsTxMap,valid_contract_address,path):
     print("getNormalTransactionFromXblock")
-    fileDir = "/mnt/sda1/bowei/sbw/xblock/normalTransaction/";
+    fileDir = "/mnt/sda1/xblock/normalTransaction/";
 
     files = [
 		# "13000000to13249999_BlockTransaction",

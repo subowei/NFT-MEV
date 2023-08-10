@@ -1,0 +1,49 @@
+OpenSea_seaportV1                     5812
+OpenSea_seaportV1;Sudoswap            4573
+OpenSea_wyvernV2                      2841
+Sudoswap                              2472
+OpenSea_wyvernV1                      1542
+OpenSea_wyvernV2;LooksRare            1456
+X2Y2;Sudoswap                         1435
+OpenSea_seaportV1;LooksRare            787
+X2Y2;OpenSea_seaportV1                 483
+LooksRare;Sudoswap                     442
+LooksRare                              426
+LooksRare;OpenSea_seaportV1            373
+Blur;OpenSea_seaportV1                 350
+LooksRare;OpenSea_wyvernV2             249
+Blur;Sudoswap                          127
+X2Y2;LooksRare                         123
+Sudoswap;OpenSea_seaportV1              88
+Sudoswap;LooksRare                      54
+Arcade                                  42
+none                                    35
+OpenSea_wyvernV2;OpenSea_seaportV1      23
+X2Y2                                    21
+OpenSea_seaportV1;X2Y2                  13
+X2Y2;OpenSea_wyvernV2                   12
+OpenSea_wyvernV1;LooksRare              11
+CryptoKitties                           10
+OpenSea_wyvernV1;OpenSea_wyvernV2        9
+OpenSea_seaportV1;OpenSea_wyvernV2       7
+OpenSea_wyvernV2;OpenSea_wyvernV1        5
+Rarible_v2                               4
+Rarible_v2;Sudoswap                      2
+Blur;LooksRare                           2
+Rarible_v2;OpenSea_seaportV1             2
+
+
+
+Rarible_v2: 该平台貌似支持先买后卖
+
+
+CryptoKitties: 假阳性, 第一个seller为平台，而不是卖家
+sudoswap: 假阳性，貌似没问题
+Arcade: 假阳性
+Rarible_v2;Sudoswap: 假阳性
+
+
+真正有问题（7.12修正）：
+CryptoKitties: 假阳性, 第一个seller为平台，而不是卖家
+Arcade: 假阳性
+

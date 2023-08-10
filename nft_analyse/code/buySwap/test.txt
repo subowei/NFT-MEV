@@ -1,0 +1,170 @@
+file 15250000to15499999_InternalTransaction
+0
+1000000
+2000000
+3000000
+4000000
+5000000
+6000000
+7000000
+8000000
+9000000
+10000000
+11000000
+12000000
+13000000
+14000000
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '0', '0xfbad1d99', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '1', '1', '0', '0xd0a494e4', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0x7ca7b5eaaf526d93705d28c1b47e9739595c90e7', '1', '1', '0', '0xd0a494e4', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_0', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0xa9059cbb', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '0', '0xeb2021c3', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0_1_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '0', '0xeb2021c3', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x2e1a7d4d', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_0_0', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '14000000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0_1_0_0_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '14000000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x00000000006c3852cbef3e08e8df289169ede581', '1', '1', '14000000000000000000', '0xfb0f3ee1', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_1_0_1_0', '0x00000000006c3852cbef3e08e8df289169ede581', '0x004c00500000ad104d7dbd00e3ae0a5c00560c00', '1', '1', '0', '0x0e1d31dc', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_1', '0x00000000006c3852cbef3e08e8df289169ede581', '0x1e0049783f008a0085193e00003d00cd54003c71', '1', '1', '0', '0x4ce34aa2', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_1_0', '0x1e0049783f008a0085193e00003d00cd54003c71', '0x60e4d786628fea6478f785a6d7e704777c86a7c6', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_2', '0x00000000006c3852cbef3e08e8df289169ede581', '0x8de9c5a032463c561423387a9648c5c7bcc5bc90', '1', '0', '350000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_3', '0x00000000006c3852cbef3e08e8df289169ede581', '0xa858ddc0445d8131dac4d1de01f834ffcba52ef1', '1', '1', '350000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0_1_0_1_3_0', '0xa858ddc0445d8131dac4d1de01f834ffcba52ef1', '0xd9db270c1b5e3bd161e8c8503c55ceabee709552', '1', '1', '350000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_4', '0x00000000006c3852cbef3e08e8df289169ede581', '0xca86d57519dbfe34a25eef0923b259ab07986b71', '1', '0', '13300000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x60e4d786628fea6478f785a6d7e704777c86a7c6', '1', '1', '0', '0xa22cb465', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x00000000006c3852cbef3e08e8df289169ede581', '1', '1', '0', '0xfb0f3ee1', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_1_0_3_0', '0x00000000006c3852cbef3e08e8df289169ede581', '0x004c00500000ad104d7dbd00e3ae0a5c00560c00', '1', '1', '0', '0x0e1d31dc', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1', '0x00000000006c3852cbef3e08e8df289169ede581', '0x1e0049783f008a0085193e00003d00cd54003c71', '1', '1', '0', '0x4ce34aa2', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1_0', '0x1e0049783f008a0085193e00003d00cd54003c71', '0x60e4d786628fea6478f785a6d7e704777c86a7c6', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1_1', '0x1e0049783f008a0085193e00003d00cd54003c71', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1_2', '0x1e0049783f008a0085193e00003d00cd54003c71', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1_3', '0x1e0049783f008a0085193e00003d00cd54003c71', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_4', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0xa9059cbb', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_5', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x2e1a7d4d', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_5_0', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '629999999999999999', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0_1_0_5_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '629999999999999999', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_2', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_3', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_4', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_5', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_1', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x2e1a7d4d', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_2_0', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '781499000000000001', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_2_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '781499000000000001', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_3', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x829bd824b016326a401d083b33d092293333a830', '1', '0', '558023265732687984', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_4', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xcff94fe1e0b63cc4b8414995e824b2e1108429f0', '1', '0', '1445178995795272717', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_5', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x70a08231', 'None']
+0
+1000000
+2000000
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '14000000000000000000']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0x3a7d5fa4cf258a740860106434a5682366211a4f', '0x8de9c5a032463c561423387a9648c5c7bcc5bc90', '0', '0', '385000000000000000']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0x3a7d5fa4cf258a740860106434a5682366211a4f', '0xa858ddc0445d8131dac4d1de01f834ffcba52ef1', '0', '1', '385000000000000000']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0x3a7d5fa4cf258a740860106434a5682366211a4f', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0', '1', '14630000000000000000']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '1', '1', '14000000000000000000']
+file 15250000to15499999_InternalTransaction
+0
+1000000
+2000000
+3000000
+4000000
+5000000
+6000000
+7000000
+8000000
+9000000
+10000000
+11000000
+12000000
+13000000
+14000000
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '0', '0xfbad1d99', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '1', '1', '0', '0xd0a494e4', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0x7ca7b5eaaf526d93705d28c1b47e9739595c90e7', '1', '1', '0', '0xd0a494e4', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_0', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0xa9059cbb', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '0', '0xeb2021c3', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0_1_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '0', '0xeb2021c3', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x2e1a7d4d', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_0_0', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '14000000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0_1_0_0_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '14000000000000000000', '0x', 'None']
+from 0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 0, 'inAction': None, 'outValue': 1.4e+19, 'outAction': True, 'addrType': 'txTo_owner1'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x00000000006c3852cbef3e08e8df289169ede581', '1', '1', '14000000000000000000', '0xfb0f3ee1', 'None']
+from 0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 0, 'inAction': None, 'outValue': 2.8e+19, 'outAction': True, 'addrType': 'txTo_owner1'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_1_0_1_0', '0x00000000006c3852cbef3e08e8df289169ede581', '0x004c00500000ad104d7dbd00e3ae0a5c00560c00', '1', '1', '0', '0x0e1d31dc', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_1', '0x00000000006c3852cbef3e08e8df289169ede581', '0x1e0049783f008a0085193e00003d00cd54003c71', '1', '1', '0', '0x4ce34aa2', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_1_0', '0x1e0049783f008a0085193e00003d00cd54003c71', '0x60e4d786628fea6478f785a6d7e704777c86a7c6', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_2', '0x00000000006c3852cbef3e08e8df289169ede581', '0x8de9c5a032463c561423387a9648c5c7bcc5bc90', '1', '0', '350000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_3', '0x00000000006c3852cbef3e08e8df289169ede581', '0xa858ddc0445d8131dac4d1de01f834ffcba52ef1', '1', '1', '350000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0_1_0_1_3_0', '0xa858ddc0445d8131dac4d1de01f834ffcba52ef1', '0xd9db270c1b5e3bd161e8c8503c55ceabee709552', '1', '1', '350000000000000000', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_1_4', '0x00000000006c3852cbef3e08e8df289169ede581', '0xca86d57519dbfe34a25eef0923b259ab07986b71', '1', '0', '13300000000000000000', '0x', 'None']
+toAddr 0xca86d57519dbfe34a25eef0923b259ab07986b71
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 0, 'inAction': None, 'outValue': 2.8e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x60e4d786628fea6478f785a6d7e704777c86a7c6', '1', '1', '0', '0xa22cb465', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x00000000006c3852cbef3e08e8df289169ede581', '1', '1', '0', '0xfb0f3ee1', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_1_0_3_0', '0x00000000006c3852cbef3e08e8df289169ede581', '0x004c00500000ad104d7dbd00e3ae0a5c00560c00', '1', '1', '0', '0x0e1d31dc', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1', '0x00000000006c3852cbef3e08e8df289169ede581', '0x1e0049783f008a0085193e00003d00cd54003c71', '1', '1', '0', '0x4ce34aa2', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1_0', '0x1e0049783f008a0085193e00003d00cd54003c71', '0x60e4d786628fea6478f785a6d7e704777c86a7c6', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1_1', '0x1e0049783f008a0085193e00003d00cd54003c71', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1_2', '0x1e0049783f008a0085193e00003d00cd54003c71', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_3_1_3', '0x1e0049783f008a0085193e00003d00cd54003c71', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x23b872dd', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_4', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0xa9059cbb', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_5', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x2e1a7d4d', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_0_0_1_0_5_0', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '629999999999999999', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_0_0_1_0_5_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '629999999999999999', '0x', 'None']
+from 0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 0, 'inAction': None, 'outValue': 2.863e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_2', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_3', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_4', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'staticcall_0_0_0_5', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_1', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x70a08231', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x2e1a7d4d', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_2_0', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '781499000000000001', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'delegatecall_0_2_0_0', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xceaa13332036d74574b7c8b19e13e467bdd5b30d', '1', '1', '781499000000000001', '0x', 'None']
+from 0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 0, 'inAction': None, 'outValue': 2.9411499e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_3', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x829bd824b016326a401d083b33d092293333a830', '1', '0', '558023265732687984', '0x', 'None']
+from 0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 0, 'inAction': None, 'outValue': 2.996952226573269e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_4', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xcff94fe1e0b63cc4b8414995e824b2e1108429f0', '1', '0', '1445178995795272717', '0x', 'None']
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', 'call_0_5', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '1', '1', '0', '0x70a08231', 'None']
+from 0x0000000059d817f75c0157b2ae2b3298c9cfab42
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 0, 'inAction': None, 'outValue': 1.4e+19, 'outAction': True, 'addrType': 'txTo_owner1'}}
+toAddr 0xca86d57519dbfe34a25eef0923b259ab07986b71
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 0, 'inAction': None, 'outValue': 1.4e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}}
+from 0x0000000059d817f75c0157b2ae2b3298c9cfab42
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 0, 'inAction': None, 'outValue': 1.462271e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}}
+0
+1000000
+2000000
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '1', '1', '14000000000000000000']
+toAddr 0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 1.4e+19, 'inAction': True, 'outValue': 2.996952226573269e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0x3a7d5fa4cf258a740860106434a5682366211a4f', '0x8de9c5a032463c561423387a9648c5c7bcc5bc90', '0', '0', '385000000000000000']
+fromAddr 0x3a7d5fa4cf258a740860106434a5682366211a4f
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 1.4e+19, 'inAction': True, 'outValue': 2.996952226573269e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x3a7d5fa4cf258a740860106434a5682366211a4f': {'inValue': 0, 'inAction': None, 'outValue': 3.85e+17, 'outAction': True, 'addrType': 'owner2'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0x3a7d5fa4cf258a740860106434a5682366211a4f', '0xa858ddc0445d8131dac4d1de01f834ffcba52ef1', '0', '1', '385000000000000000']
+fromAddr 0x3a7d5fa4cf258a740860106434a5682366211a4f
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 1.4e+19, 'inAction': True, 'outValue': 2.996952226573269e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x3a7d5fa4cf258a740860106434a5682366211a4f': {'inValue': 0, 'inAction': None, 'outValue': 7.7e+17, 'outAction': True, 'addrType': 'owner2'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0x3a7d5fa4cf258a740860106434a5682366211a4f', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0', '1', '14630000000000000000']
+fromAddr 0x3a7d5fa4cf258a740860106434a5682366211a4f
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 1.4e+19, 'inAction': True, 'outValue': 2.996952226573269e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x3a7d5fa4cf258a740860106434a5682366211a4f': {'inValue': 0, 'inAction': None, 'outValue': 1.54e+19, 'outAction': True, 'addrType': 'owner2'}}
+toAddr 0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 2.863e+19, 'inAction': True, 'outValue': 2.996952226573269e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x3a7d5fa4cf258a740860106434a5682366211a4f': {'inValue': 0, 'inAction': None, 'outValue': 1.54e+19, 'outAction': True, 'addrType': 'owner2'}}
+['15278084', '1659645926', '0x2dd9adee10f54e7ece5b7aa48ab946fc2e238d1d07fb310dbc0da90d40d69aa1', '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2', '0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d', '0x983dfba1c0724786598af0e63a9a6f94aabd24a1', '1', '1', '14000000000000000000']
+fromAddr 0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d
+{'0xfd597eaa0b6e895904e8c1bf88ea79187f3ec38d': {'inValue': 2.863e+19, 'inAction': True, 'outValue': 4.396952226573269e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x3a7d5fa4cf258a740860106434a5682366211a4f': {'inValue': 0, 'inAction': None, 'outValue': 1.54e+19, 'outAction': True, 'addrType': 'owner2'}}
+toAddr 0x0000000059d817f75c0157b2ae2b3298c9cfab42
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 1.4e+19, 'inAction': True, 'outValue': 1.462271e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}}
+fromAddr 0x8d0943c238d8d0d3a6d5f2aaa4dafa869a8c3913
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 1.4e+19, 'inAction': True, 'outValue': 1.462271e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x8d0943c238d8d0d3a6d5f2aaa4dafa869a8c3913': {'inValue': 0, 'inAction': None, 'outValue': 1.573e+19, 'outAction': True, 'addrType': 'owner2'}}
+toAddr 0x0000000059d817f75c0157b2ae2b3298c9cfab42
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 2.973e+19, 'inAction': True, 'outValue': 1.462271e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x8d0943c238d8d0d3a6d5f2aaa4dafa869a8c3913': {'inValue': 0, 'inAction': None, 'outValue': 1.573e+19, 'outAction': True, 'addrType': 'owner2'}}
+fromAddr 0x0000000059d817f75c0157b2ae2b3298c9cfab42
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 2.973e+19, 'inAction': True, 'outValue': 1.501596e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x8d0943c238d8d0d3a6d5f2aaa4dafa869a8c3913': {'inValue': 0, 'inAction': None, 'outValue': 1.573e+19, 'outAction': True, 'addrType': 'owner2'}}
+fromAddr 0x0000000059d817f75c0157b2ae2b3298c9cfab42
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 2.973e+19, 'inAction': True, 'outValue': 1.540921e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x8d0943c238d8d0d3a6d5f2aaa4dafa869a8c3913': {'inValue': 0, 'inAction': None, 'outValue': 1.573e+19, 'outAction': True, 'addrType': 'owner2'}}
+fromAddr 0x0000000059d817f75c0157b2ae2b3298c9cfab42
+{'0x0000000059d817f75c0157b2ae2b3298c9cfab42': {'inValue': 2.973e+19, 'inAction': True, 'outValue': 2.940921e+19, 'outAction': True, 'addrType': 'txTo_owner1'}, '0xca86d57519dbfe34a25eef0923b259ab07986b71': {'inValue': 1.33e+19, 'inAction': True, 'outValue': 0, 'outAction': None, 'addrType': 'owner0'}, '0x8d0943c238d8d0d3a6d5f2aaa4dafa869a8c3913': {'inValue': 0, 'inAction': None, 'outValue': 1.573e+19, 'outAction': True, 'addrType': 'owner2'}}
